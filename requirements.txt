@@ -1,2 +1,1 @@
--e file:/Users/craig/Documents/dangerfarms/graphene
-# graphene==3.0.dev20190817210753
+-e git://github.com/dangerfarms/graphene#egg=graphene
